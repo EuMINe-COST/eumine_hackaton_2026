@@ -1,11 +1,11 @@
 {
-  "team_name": "OrganizerTest2",
+  "team_name": "OrganizerTest",
   "model_id": "dummy_baseline_v1",
   "matfed_api_version": "1.0",
   "predictions": [
     {
       "material_id": "mp-2212065",
-      "formation_energy_per_atom": -3.1675,
+      "formation_energy_per_atom": -3.1674,
       "band_gap": 4.1168
     },
     {
