@@ -29,7 +29,7 @@ import sys
 import json
 
 # ---------------------------------------------------------------------------
-# Normalization constants — update after running hackaton/baseline_model.py
+# Normalization constants — update after running hackathon/baseline_model.py
 # ---------------------------------------------------------------------------
 #BASELINE_MAE_EF = 0.25   # eV/atom
 #BASELINE_MAE_BG = 0.80   # eV
